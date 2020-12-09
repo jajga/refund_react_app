@@ -1,0 +1,15 @@
+export const NEW_BUCKET = 'NEW_BUCKET';
+export const FETCH_BUCKET = 'FETCH_BUCKET';
+export const NEW_TODO = 'NEW_TODO';
+export const FETCH_ORDER = 'FETCH_ORDER';
+export const FETCH_ORDERS = 'FETCH_ORDERS';
+export const GET_ORDERDETAIL='GET_ORDERDETAIL'
+export const GET_ORDERDETAILS='GET_ORDERDETAILS'
+export const DELETE_TODO = 'DELETE_TODO';
+export const FETCH_USER = 'FETCH_USER';
+export const LOGIN_ERR = 'LOGIN_ERR';
+export const FETCH_REPEATCUSTOMER = 'FETCH_REPEATCUSTOMER';
+export const FETCH_REPEATCUSTOMERS = 'FETCH_REPEATCUSTOMERS';
+export const API_HOST='https://refund.yumindia.net';
+export const GET_ORDERCOUNT='GET_ORDERCOUNT';
+export const FETCH_DASH = 'FETCH_DASH'
